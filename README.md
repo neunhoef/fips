@@ -1,5 +1,8 @@
 # fips_file_crypt
 
+This project was fully created by Claude. I did not read every produced line
+of code. THIS COULD CONTAIN NUTS.
+
 Minimal worked example of using the OpenSSL 3.x FIPS provider from C++20
 to do AES-256-GCM "encryption at rest" of a file, per
 https://docs.openssl.org/master/man7/fips_module/.
